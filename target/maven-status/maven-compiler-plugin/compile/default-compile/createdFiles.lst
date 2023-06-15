@@ -1,0 +1,8 @@
+com\ocedong\common\generics\AbstractBaseRepository.class
+com\ocedong\common\generics\AbstractBaseController.class
+com\ocedong\common\helpers\ObjectHelper.class
+com\ocedong\App.class
+com\ocedong\common\models\AbstractAuditingEntity.class
+com\ocedong\common\generics\AbstractBaseService.class
+com\ocedong\common\generics\AbstractBaseServiceImpl.class
+com\ocedong\common\models\QAbstractAuditingEntity.class
